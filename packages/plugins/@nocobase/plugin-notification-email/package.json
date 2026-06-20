@@ -13,7 +13,7 @@
   "main": "dist/server/index.js",
   "devDependencies": {
     "@types/nodemailer": "^6.x",
-    "nodemailer": "^6.x"
+    "nodemailer": "^9.x"
   },
   "peerDependencies": {
     "@nocobase/client": "2.x",
